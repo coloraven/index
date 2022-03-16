@@ -27,7 +27,7 @@
     "FColor": "black"
   },
   "SoftWare": {
-    "port": 80,
+    "port": 8130,
     "password": "123",
     "Mode": "W",
     "Debug": "",
