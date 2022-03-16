@@ -27,7 +27,7 @@
     "FColor": "black"
   },
   "SoftWare": {
-    "port": 9100,
+    "port": 80,
     "password": "123",
     "Mode": "W",
     "Debug": "",
@@ -71,7 +71,7 @@
     },
     {
       "id": 6,
-      "title": "路由器管理",
+      "title": "管理路由",
       "ico": "https://pic.6b7.xyz/2022/03/07/ebd5ae0c4f028.png",
       "w_link": "https://op.sirliu.top:4433",
       "n_link": "#"
@@ -92,31 +92,17 @@
     },
     {
       "id": 9,
-      "title": "BT下载",
+      "title": "内网穿透",
       "ico": "https://pic.6b7.xyz/2022/03/07/3106ed43120b8.png",
       "w_link": "https://alist.6b7.org/",
       "n_link": "https://alist.6b7.org/"
     },
     {
       "id": 10,
-      "title": "NAS管理",
-      "ico": "https://pic.6b7.xyz/2022/03/07/7b2035e938882.png",
-      "w_link": "#",
-      "n_link": "#"
-    },
-    {
-      "id": 11,
-      "title": "管理路由",
-      "ico": "https://pic.6b7.xyz/2022/03/07/0056f7e81d762.png",
-      "w_link": "#",
-      "n_link": "#"
-    },
-    {
-      "id": 12,
-      "title": "监听监控",
-      "ico": "https://pic.6b7.xyz/2022/03/07/ee4ce0ead6330.png",
-      "w_link": "#",
-      "n_link": "#"
+      "title": "阿里云盘",
+      "ico": "https://pic.6b7.xyz/2022/03/07/3106ed43120b8.png",
+      "w_link": "https://alist.6b7.org/",
+      "n_link": "https://alist.6b7.org/"
     }
   ]
 }

@@ -1,7 +1,8 @@
 FROM scratch
 # FROM alpine
 WORKDIR /app
-COPY ./index .
-COPY ./conf .
-EXPOSE 9100
+COPY . .
+EXPOSE 80
+VOLUME [ "/app/conf" ]
 ENTRYPOINT  ["/app/index"]
+
