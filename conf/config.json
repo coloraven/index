@@ -1,25 +1,25 @@
 {
   "Index": {
-    "Logo": "https://pic.6b7.xyz/2022/03/06/1f48ba24e4949.ico",
-    "Favicon": "https://pic.6b7.xyz/2022/03/06/1f48ba24e4949.ico",
-    "Title": "Cloud Services"
+    "Logo": "https://cdn.jsdelivr.net/gh/sirliu/index@main/img/logo/独立域名.png",
+    "Favicon": "https://cdn.jsdelivr.net/gh/sirliu/index@main/img/logo/独立域名.png",
+    "Title": "星际迷航"
   },
   "Footer": [
-    {
-      "Text": "陕ICP备XXXXXXXX号-1",
-      "TextLink": "https://beian.miit.gov.cn/"
-    },
     {
       "Text": "Copyright © 2021",
       "TextLink": ""
     },
     {
-      "Text": "陆比柒",
-      "TextLink": "https://6b7.org/"
+      "Text": "欢迎",
+      "TextLink": ""
+    },
+    {
+      "Text": "光临",
+      "TextLink": "#"
     }
   ],
   "FooterStyle": {
-    "Background": "https://pic.6b7.xyz/2021/11/26/167cad24ee06f.png",
+    "Background": "",
     "BackgroundColorA": "#acb6e5",
     "BackgroundColorB": "#86fde8",
     "LColor": "#FFF",
@@ -37,72 +37,86 @@
     {
       "id": 1,
       "title": "我的博客",
-      "ico": "https://pic.6b7.xyz/2022/03/07/df34301c829c7.png",
+      "ico": "https://cdn.jsdelivr.net/gh/sirliu/index@main/img/logo/首页_home.svg",
       "w_link": "https://sirliu.github.io/",
       "n_link": "https://sirliu.github.io/"
     },
     {
       "id": 2,
-      "title": "Filebrowser",
-      "ico": "https://pic.6b7.xyz/2022/03/07/ff5b38c0e5d69.png",
-      "w_link": "https://fb.sirliu.top:4433/",
-      "n_link": "http://192.168.1.100:"
+      "title": "归属地查询",
+      "ico": "https://cdn.jsdelivr.net/gh/sirliu/index@main/img/logo/已定位_local.png",
+      "w_link": "https://query.sirliu.top:4433/",
+      "n_link": "http://192.168.1.100:8848/"
     },
     {
       "id": 3,
-      "title": "加班申请",
-      "ico": "https://pic.6b7.xyz/2022/03/07/e423b98fc37fe.png",
-      "w_link": "https://jiaban.sirliu.top:4433",
-      "n_link": "http://192.168.1.100"
-    },
-    {
-      "id": 4,
-      "title": "Nginx",
-      "ico": "https://pic.6b7.xyz/2022/03/07/384785b7e656a.png",
-      "w_link": "https://nginx.sirliu.top:4433",
-      "n_link": "192.168.1.100"
+      "title": "青龙面板",
+      "ico": "https://cdn.jsdelivr.net/gh/sirliu/index@main/img/logo/浏览器_browser.svg",
+      "w_link": "https://ql.sirliu.top:4433/",
+      "n_link": "http://192.168.1.100:5678/"
     },
     {
       "id": 5,
-      "title": "容器管理",
-      "ico": "https://pic.6b7.xyz/2022/03/07/cf55fe76b2d73.png",
-      "w_link": "https://portainer.sirliu.top:4433",
-      "n_link": "#"
+      "title": "加班申报",
+      "ico": "https://cdn.jsdelivr.net/gh/sirliu/index@main/img/logo/品牌标识-钉钉.svg",
+      "w_link": "https://jiaban.sirliu.top:4433/docs",
+      "n_link": "http://192.168.1.100:6464/docs"
     },
     {
       "id": 6,
-      "title": "管理路由",
-      "ico": "https://pic.6b7.xyz/2022/03/07/ebd5ae0c4f028.png",
-      "w_link": "https://op.sirliu.top:4433",
-      "n_link": "#"
-    },
-    {
-      "id": 7,
-      "title": "IP定位",
-      "ico": "https://pic.6b7.xyz/2022/03/07/6fd1a29c365b0.png",
-      "w_link": "https://ip.sirliu.top:4433",
-      "n_link": "#"
+      "title": "JupyterLab",
+      "ico": "https://cdn.jsdelivr.net/gh/sirliu/index@main/img/logo/代码_code.svg",
+      "w_link": "https://jupyterlab.sirliu.top:4433/",
+      "n_link": "http://192.168.1.100:3210/"
     },
     {
       "id": 8,
-      "title": "JupyterLab",
-      "ico": "https://pic.6b7.xyz/2022/03/07/dea6c2d1c0d25.png",
-      "w_link": "#",
-      "n_link": "#"
+      "title": "Nginx设置",
+      "ico": "https://cdn.jsdelivr.net/gh/sirliu/index@main/png/10-Planning1.svg",
+      "w_link": "https://nginx.sirliu.top:4433/",
+      "n_link": "http://192.168.1.100:81/"
     },
     {
       "id": 9,
-      "title": "内网穿透",
-      "ico": "https://pic.6b7.xyz/2022/03/07/3106ed43120b8.png",
-      "w_link": "https://alist.6b7.org/",
-      "n_link": "https://alist.6b7.org/"
+      "title": "内网测速",
+      "ico": "https://cdn.jsdelivr.net/gh/sirliu/index@main/img/logo/测速.png",
+      "w_link": "https://speedtest.sirliu.top:4433/",
+      "n_link": "http://192.168.1.100:9988/"
     },
     {
       "id": 10,
-      "title": "阿里云盘",
-      "ico": "https://pic.6b7.xyz/2022/03/07/3106ed43120b8.png",
-      "w_link": "https://alist.6b7.org/",
-      "n_link": "https://alist.6b7.org/"
+      "title": "FileBrowser管理",
+      "ico": "https://cdn.jsdelivr.net/gh/sirliu/index@main/img/logo/访达_mac-finder.svg",
+      "w_link": "https://fb.sirliu.top:4433/",
+      "n_link": "http://192.168.1.100:808/"
+    },
+    {
+      "id": 11,
+      "title": "管理路由",
+      "ico": "https://cdn.jsdelivr.net/gh/sirliu/index@main/img/logo/路由器_router.svg",
+      "w_link": "https://op.sirliu.top:4433/",
+      "n_link": "http://192.168.1.1/"
+    },
+    {
+      "id": 12,
+      "title": "容器管理",
+      "ico": "https://cdn.jsdelivr.net/gh/sirliu/index@main/img/logo/文件柜_file-cabinet.svg",
+      "w_link": "https://portainer.sirliu.top:4433/",
+      "n_link": "http://192.168.1.100:9000/"
+    },
+    {
+      "id": 13,
+      "title": "ShellClash",
+      "ico": "https://cdn.jsdelivr.net/gh/sirliu/index@main/img/logo/clash.png",
+      "w_link": "https://shellclash.sirliu.top:4433/ui",
+      "n_link": "http://192.168.1.1:9999/ui"
+    },
+    {
+      "id": 4,
+      "title": "NextCloud",
+      "ico": "https://cdn.jsdelivr.net/gh/sirliu/index@main/img/logo/nextcloud.png",
+      "w_link": "https://nc.sirliu.top:4433/",
+      "n_link": "http://192.168.1.100:308/"
     }
   ]
 }
